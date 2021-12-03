@@ -1,5 +1,6 @@
 # fleet-complite
 
+Test task for the software developer candidate in Fleet Complete
 ## Project setup
 ```
 npm install
@@ -19,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
