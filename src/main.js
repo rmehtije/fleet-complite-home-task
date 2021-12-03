@@ -7,7 +7,7 @@ import x5GMaps from 'x5-gmaps';
 
 Vue.config.productionTip = false;
 Vue.use(BootstrapVue);
-Vue.use(x5GMaps, 'AIzaSyCu7YhCPSoqrkbpT44Iuz2bdPPOlZ4UTsc');
+Vue.use(x5GMaps, process.env.VUE_APP_GOOGLE_MAPS_API_KEY);
 
 
 new Vue({

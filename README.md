@@ -1,6 +1,9 @@
 # fleet-complite
 
 Test task for the software developer candidate in Fleet Complete
+
+You will need Google maps api key. Insert key in .env.exmaple and rename the file to .env
+
 ## Project setup
 ```
 npm install
